@@ -14,6 +14,11 @@ cool640zmk use seeed xiao ble,run zmk_firmware.
 <br>
 <br>
 
+作った理由
+<br>
+https://sizu.me/m_ki/posts/m2cfnik4z2xd
+<br>
+
 ## firmware
 
 [zmk-config](https://github.com/telzo2000/zmk-config-cool640zmk)
