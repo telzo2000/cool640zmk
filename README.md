@@ -50,7 +50,7 @@ https://sizu.me/m_ki/posts/m3devs7be5km
 
 https://github.com/telzo2000/cool640zmk/blob/main/buildguide_for_cool640zmk.md
 
-（執筆前）
+
 <br>
 
 
